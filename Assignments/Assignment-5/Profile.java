@@ -44,4 +44,9 @@ public class Profile implements Serializable {
     public void setSchool(School school) {
         this.school = school;
     }
+
+    @Override
+    public String toString() {
+        return "Profile [age=" + age + ", hobby=" + hobby + ", name=" + name + ", school=" + school + "]";
+    }
 }
