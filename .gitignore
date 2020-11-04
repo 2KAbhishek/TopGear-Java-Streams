@@ -1,2 +1,5 @@
 # Class files
 *.class
+
+# Serialized files
+*.ser
