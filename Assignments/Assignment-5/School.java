@@ -24,4 +24,10 @@ public class School implements Serializable {
     public void setYearStarted(int yearStarted) {
         this.yearStarted = yearStarted;
     }
+
+    @Override
+    public String toString() {
+        return "School [nameOfSchool=" + nameOfSchool + ", yearStarted=" + yearStarted + "]";
+    }
+
 }
