@@ -2,6 +2,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 
+// Write serialized data to file
 public class MyClassToBePersisted {
     public static void main(String[] args) {
         School sc1 = new School("Kid Zone", 1998);

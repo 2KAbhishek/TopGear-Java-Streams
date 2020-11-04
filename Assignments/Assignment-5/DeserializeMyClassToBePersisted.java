@@ -2,6 +2,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 
+// Deserialize data amd print to console
 public class DeserializeMyClassToBePersisted {
     public static void main(String[] args) {
         try {
