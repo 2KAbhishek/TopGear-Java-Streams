@@ -4,6 +4,11 @@ public class School implements Serializable {
     private String nameOfSchool;
     private transient int yearStarted;
 
+    public School(String nameOfSchool, int yearStarted) {
+        this.nameOfSchool = nameOfSchool;
+        this.yearStarted = yearStarted;
+    }
+
     public String getNameOfSchool() {
         return nameOfSchool;
     }
