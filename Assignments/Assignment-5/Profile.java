@@ -6,6 +6,13 @@ public class Profile implements Serializable {
     private String hobby;
     private School school;
 
+    public Profile(String name, int age, String hobby, School school) {
+        this.name = name;
+        this.age = age;
+        this.hobby = hobby;
+        this.school = school;
+    }
+
     public String getName() {
         return name;
     }
