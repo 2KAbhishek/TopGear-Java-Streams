@@ -52,7 +52,7 @@ javac Filename.java # Compile
 java Filename # Run
 ```
 
-Hit the :star: button if you found this useful.
+Hit the ⭐ button if you found this useful.
 
 ## More Info
 
