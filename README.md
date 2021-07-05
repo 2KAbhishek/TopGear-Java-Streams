@@ -23,11 +23,9 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Short sweet headline with 🎇🎉</h2>
+<h2>Solutions for Java-Streams problems ☕🌊</h2>
 
 </div>
-
-Contains solutions for some interesting Stream API based problems written as part of Java Streams TopGear training project.
 
 ## Prerequisites
 
@@ -60,6 +58,9 @@ Hit the :star: button if you found this useful.
 
 <div align="center">
 
+<strong>Disclaimer!</strong><br>
+These solutions have been shared for learning purposes only. <br>
+ 
 <a href="https://github.com/2KAbhishek/TopGear-Java-Streams">Source</a> |
 <a href="https://2kabhishek.github.io/TopGear-Java-Streams">Website</a>
 
