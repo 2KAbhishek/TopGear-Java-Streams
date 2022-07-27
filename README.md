@@ -2,26 +2,23 @@
 
 <h1><a href="https://2kabhishek.github.io/TopGear-Java-Streams">TopGear-Java-Streams</a></h1>
 
-<a href="https://github.com/2KAbhishek/TopGear-Java-Streams/blob/master/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/TopGear-Java-Streams?style=plastic&color=white&label=License"> </a>
-
-<a href="https://github.com/2KAbhishek/TopGear-Java-Streams/pulse">
-<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/TopGear-Java-Streams?style=plastic&color=e30724&label=Updated"> </a>
-
-<a href="https://github.com/2KAbhishek/TopGear-Java-Streams/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/TopGear-Java-Streams?style=plastic&color=00d451&label=Stars"></a>
-
-<a href="https://github.com/2KAbhishek/TopGear-Java-Streams/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/TopGear-Java-Streams?style=plastic&color=1688f0&label=Forks"> </a>
-
-<a href="https://github.com/2KAbhishek/TopGear-Java-Streams/watchers">
-<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/TopGear-Java-Streams?style=plastic&color=ff5500&label=Watchers"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-Java-Streams/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/2kabhishek/TopGear-Java-Streams?style=flat&color=eee&label="> </a>
 
 <a href="https://github.com/2KAbhishek/TopGear-Java-Streams/graphs/contributors">
-<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/TopGear-Java-Streams?style=plastic&color=f0f&label=Contributors"> </a>
+<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/TopGear-Java-Streams?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/2KAbhishek?tab=followers">
-<img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-Java-Streams/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/TopGear-Java-Streams?style=flat&color=98c379&label=Stars"></a>
+
+<a href="https://github.com/2KAbhishek/TopGear-Java-Streams/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/TopGear-Java-Streams?style=flat&color=66a8e0&label=Forks"> </a>
+
+<a href="https://github.com/2KAbhishek/TopGear-Java-Streams/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/TopGear-Java-Streams?style=flat&color=f5d08b&label=Watches"> </a>
+
+<a href="https://github.com/2KAbhishek/TopGear-Java-Streams/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/TopGear-Java-Streams?style=flat&color=e06c75&label="> </a>
 
 <h3>Solutions for Java-Streams problems ☕🌊</h3>
 
@@ -60,7 +57,7 @@ Hit the ⭐ button if you found this useful.
 
 <strong>Disclaimer!</strong><br>
 These solutions have been shared for learning purposes only. <br>
- 
+
 <a href="https://github.com/2KAbhishek/TopGear-Java-Streams">Source</a> |
 <a href="https://2kabhishek.github.io/TopGear-Java-Streams">Website</a>
 
